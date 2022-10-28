@@ -1,8 +1,12 @@
 # JAVASCRIPT COUNTER-2O22
+This is the final project from the Javascript basic course on the online course provider @Start2impact, where i'm studying front-end development.
+
+# Link
+Link al progetto https://trymycounter.netlify.app (Hosted on Netlifly).
+
+# Screenshot
+
 <img width="310" alt="Schermata 2022-05-31 alle 07 57 46" src="https://user-images.githubusercontent.com/100319112/171105635-91251177-0123-4b68-8331-45fc094d3c57.png">
-
-This is my first Javascript Project.
-
 
 # Table of contents
 
@@ -15,12 +19,14 @@ This is my first Javascript Project.
 
 # General Info
 
-This is the counter of Ilaria Stallone.
-
+This is my my first Javascript project, realized in 2022.
 
 # Description
 
-This is my my first Javascript project, realized in 2022.
+Users should be able to:
+
+* Increase and decrease the counter by clicking or tapping on the + and - buttons
+* Reset the counter by clicking or tapping on the reset button
 
 # Technologies
 
@@ -35,6 +41,9 @@ Project created with:
 - No License
 
 
-# Contact
+# Author
 
-You can contact me by Email: stalloneilaria38@gmail.com
+Ilaria Stallone - Front End Developer Student bsed in Italy
+* Email: stalloneilaria38@gmail.com
+* LinkedIn - https://www.linkedin.com/in/ilaria-stallone-87a570210/ 
+
